@@ -9,10 +9,10 @@
     <div class="h-[80%] flex flex-col">
 
       <SideBarItem icon="estate" name="Home" link="/" class="active" />
-      <SideBarItem icon="user" name="Profile" link="/home" />
-      <SideBarItem icon="setting" name="settings" link="/home" />
-      <SideBarItem icon="history" name="History" link="/home" />
-      <SideBarItem icon="search" name="Search" link="/home" />
+      <SideBarItem icon="user" name="Profile" link="/" />
+      <SideBarItem icon="setting" name="settings" link="/" />
+      <SideBarItem icon="history" name="History" link="/" />
+      <SideBarItem icon="search" name="Search" link="/" />
 
     </div>
 
