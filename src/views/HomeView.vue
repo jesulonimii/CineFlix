@@ -6,7 +6,7 @@
 
       <!-- Page title -->
       <div class="font-outfit border-b border-slate-700 font-[700] px-10 pt-5 pb-5 text-white font-bold text-2xl capitalize">
-        {{ this.$route.name }}
+        {{ $route.name }}
       </div>
 
       <section class="w-full h-full px-10 py-2">

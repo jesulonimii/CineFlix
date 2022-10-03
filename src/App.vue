@@ -3,7 +3,7 @@
 
   <main class="text-white flex bg-slate-800 relative">
     <SideBar class="z-50 h-screen fixed" @collapsed="resizeView"/>
-    <RouterView id="view" class="w-full pl-[250px] transition-all duration-1000" style="padding-left: 100px" />
+    <router-view id="view" class="w-full pl-[250px] transition-all duration-1000" style="padding-left: 100px" />
 
   </main>
 
